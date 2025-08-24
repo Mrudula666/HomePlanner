@@ -10,7 +10,6 @@ Spring Boot application for managing incomes, bills, shopping and groceries.
 
 ## Running
 
-Configure the database connection in `src/main/resources/application.properties` and start the application:
 
 ```
 mvn spring-boot:run
